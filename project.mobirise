@@ -148,7 +148,7 @@
                 "color": "@primaryColor"
               },
               "color": "#295853",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#999999",
